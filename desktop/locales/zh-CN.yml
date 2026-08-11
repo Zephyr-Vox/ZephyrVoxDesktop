@@ -1,0 +1,8 @@
+_version: 1
+app:
+  title: ZephyrVox
+  hello: 开始吧
+gpui_component:
+  Dialog:
+    ok: 好的
+    cancel: 取消
